@@ -1,6 +1,6 @@
 # ais7_demo
 * 멋쟁이 사자처럼 AIS7 실습
-<img src="https://wesmckinney.com/images/parquet_benchmarks.png" width="300" height="200">
+<img src = https://media.discordapp.net/attachments/1014124893605998624/1031741814115414097/unknown.png?width=758&height=215>
 
 # 잔디 심기 연습
 ## 깃 실습
